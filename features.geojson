@@ -383,26 +383,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Street Number": "1",
-        "Street Name": "Annemm",
-        "Street Type": "CT",
-        "Suburb": "BARMARYEE",
-        "Postcode": "4703",
-        "State": "QLD",
-        "Full Address": "1 Annemm CT BARMARYEE 4703 QLD "
-      },
-      "geometry": {
-        "coordinates": [
-          -73.087749,
-          41.60322
-        ],
-        "type": "Point"
-      },
-      "id": "0544f3006bdf4cc896014b03da73fd24"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Street Number": "474",
         "Street Name": "UPPER ORMEAU",
         "Street Type": "RD",
